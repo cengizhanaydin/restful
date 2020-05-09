@@ -10,3 +10,8 @@ Restful Web Services With Spring Boot
   Restful Web Service Hello World Bean Example 
   url => http://localhost:8080/helloworld
   return => { "message": "Hello World" }
+
+# Path Variable
+  Restful Web Service Path Variable Example
+  url => http://localhost:8080/hello/cengizhan
+  return => {"message":"Hi cengizhan"}
